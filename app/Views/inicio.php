@@ -60,7 +60,7 @@
     </video>
     <div class="container">
         <div class="jumbotron">
-            <h1 class="display-4">Precisando de ajuda?</h1>
+            <h1 class="display-4">Precisando de ajuda!?</h1>
             <p class="lead">Em muitos casos uma escuta ativa pode ser a solução.</p>
             <hr class="my-4">
             <p>Caso seja o que precise no momento, não hesite em nos contatar pelo botão abaixo. <br>Você será redirecionado ao contato whatsapp de um profissional habilitado com formação adequada e anos de experiencia. </p>
