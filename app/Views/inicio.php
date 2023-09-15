@@ -66,7 +66,7 @@
             <p>Caso seja o que precise no momento, não hesite em nos contatar pelo botão abaixo. <br>Você será redirecionado ao contato whatsapp de um profissional habilitado com formação adequada e anos de experiencia. </p>
             <br> <br><br><br>
             <p class="lead text-center">
-                <a class="btn btn-primary btn-lg btn-warning" href="#" role="button">Me ajude!</a>
+                <a class="btn btn-primary btn-lg btn-warning" href="https://api.whatsapp.com/send?phone=5511967191542&text=Oi%20poderia%20me%20ajudar?" role="button">Me ajude!</a>
             </p>
         </div>
     </div>
